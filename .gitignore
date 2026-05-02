@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+*.pt
+*.bin
+*.safetensors
+data/raw/
+data/processed/
+data/tokenized/
+logs/
+outputs/
+models/checkpoints/
+models/pretrained/
+.DS_Store
+.ipynb_checkpoints/
